@@ -14,7 +14,7 @@
     "indexed-db",
     "hybrid"
   ],
-  "author": "ThaUnknown_",
+  "author": "zlaski_",
   "license": "MIT",
   "devDependencies": {
     "airtap": "^4.0.4",
@@ -31,10 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+github.com/ThaUnknown/hybrid-chunk-store.git"
+    "url": "git+github.com/zlaski/hybrid-chunk-store.git"
   },
   "bugs": {
-    "url": "https://github.com/ThaUnknown/hybrid-chunk-store/issues"
+    "url": "https://github.com/zlaski/hybrid-chunk-store/issues"
   },
-  "homepage": "https://github.com/ThaUnknown/hybrid-chunk-store#readme"
+  "homepage": "https://github.com/zlaski/hybrid-chunk-store#readme"
 }
